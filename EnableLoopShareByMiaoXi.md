@@ -1,3 +1,8 @@
+---
+title：赋能循环分享By喵曦
+date: 2019-5-21 20:20:54
+
+--- 
 # 0 基本信息
 ## 0.1 文档简介
 * 文档简介：
@@ -15,11 +20,7 @@
 （其实这个文章里的小x就是被信息模糊化保护客户信息后的我啊_(:з」∠)_）
 
 ![图片](https://uploader.shimo.im/f/7x61tKiRY9IUf1pt.png!thumbnail)
-## 0.2 编写信息
-* 编写人：
-* 编写时间：
 
-# 1 喵曦分享
 # 整体介绍
 ## 耗能循环
 
@@ -80,7 +81,7 @@
 ## 赋能循环
 而主角、真正应该做的是什么呢~
 
-![图片](https://uploader.shimo.im/f/87jTo1q9BQoMwaUS.png!thumbnail)
+！[87jTo1q9BQoMwaUS__thumbnail (1000×706)](https://images-cdn.shimo.im/87jTo1q9BQoMwaUS__thumbnail)
 
 
 这是一个什么循环？这就是一个你从自己就是最好的开始，这样的循环。
@@ -494,4 +495,3 @@ BEI-如果可以更好，那是什么？
 ## ChangeLog
 * 文档创建人：小狮子
 * 文档创建日期：2019年05月21日 21:07:00 
-

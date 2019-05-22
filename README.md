@@ -1,1 +1,3 @@
-#Title of Readme
+# Title of Readme
+
+该仓库记录了赋能循环的学习笔记，主要内容来自于喵曦群内的分享~
